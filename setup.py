@@ -22,7 +22,6 @@ setup(
         "numpy",
         "lasertools_pulse",
         "lasertools_rffthelper",
-        "lasertools_pulse",
     ],
   classifiers=[
     'Programming Language :: Python :: 3.9',
