@@ -23,7 +23,7 @@ setup(
         "lasertools_pulse",
         "lasertools_rffthelper",
     ],
-  classifiers=[
-    'Programming Language :: Python :: 3.9',
-  ],
+    classifiers=[
+      'Programming Language :: Python :: 3.9',
+    ],
 )
